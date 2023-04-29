@@ -1,0 +1,107 @@
+{
+  "AdsController": {
+
+    "AdNetwork": "admob",
+
+    "AdMob_ID": "pub-3940256099942544",
+    "AdMob_Banner": "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd": "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Native": "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_RewardAd": "ca-app-pub-3940256099942544/5224354917",
+
+
+  },
+
+
+  "Skins": [
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/21/neon-maid-21535077.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/21/neon-maid-21535077.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/20/oc--owsl-neon-21533069.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/20/oc--owsl-neon-21533069.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/21/neon-21536852.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/21/neon-21536852.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/17/gradient-tv-21524484.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/17/gradient-tv-21524484.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/15/guy-from-the-office-14-21518296.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/15/guy-from-the-office-14-21518296.png",
+      "locked": false
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/neon-21511506.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/13/neon-21511506.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/13/nightmist-21512523.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/13/nightmist-21512523.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/07/red-to-blue-gradient-gamer-with-glowing-creeper-with-long-hair-21494641.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/07/red-to-blue-gradient-gamer-with-glowing-creeper-with-long-hair-21494641.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/27/neon-bot--21554117.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/27/neon-bot--21554117.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/26/endstone-demon-21550307.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/26/endstone-demon-21550307.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/25/the-skin-of-neonn-21547743.png",
+      "texture": "https://www.minecraftskins.com/uploads/skins/2023/04/25/the-skin-of-neonn-21547743.png",
+      "locked": true
+    },
+    {
+      "preview": "https://www.minecraftskins.com/uploads/preview-skins/2023/03/31/black-destroyer-21472815.png",
+      "texture": "https://www.minecraftskins.com/uploads/preview-skins/2023/04/25/the-skin-of-neonn-21547743.png",
+      "locked": true
+    }
+
+  ],
+
+
+  "AppsPromote": [
+    {
+      "name": "Minecraft PE skyblock",
+      "packageName": "com.andiqwer.skyblock_maps",
+      "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
+      "download": "+100 K"
+    },
+    {
+      "name": "Houses Maps",
+      "packageName": "com.andiqwer.house_maps",
+      "icon": "https://play-lh.googleusercontent.com/bQsbA_haB-0iEsxZ6MdgH0fjtsmlQkMiSusNLybYrevbC1O6ksLhlqfL9MTCqOUWnEo=w240-h480",
+      "download": "+500 K"
+    },
+    {
+      "name": "Guns Mods",
+      "packageName": "com.AndiQwer.GunMods",
+      "icon": "https://play-lh.googleusercontent.com/LeOVlNtItLA87uqKnjvo0hjBEOLdMKNheAOYI40qiOERuFXfZLZ2LQ5U6bk9rbfj7pPC=w240-h480",
+      "download": "+1 Million"
+    },
+    {
+      "name": "Cars Mods",
+      "packageName": "com.andiqwer.car_mods",
+      "icon": "https://play-lh.googleusercontent.com/lnbR00xtm3QcQWCUf9N9i4fOZBK6M0AuczactBbOFUuo2DbRU3VS0x9yUqTvVtnFyg=w240-h480",
+      "download": "+50 Million"
+    }
+  ]
+}
